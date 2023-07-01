@@ -233,6 +233,3 @@ The `assets` directory and everything within it, will be removed.
 |---------------|---------------------------|
 | 200 OK        | The item has been deleted |
 | 404 Not Found | Path does not exist       |
-
-
-
